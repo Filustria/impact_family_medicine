@@ -1,0 +1,26 @@
+--- 
+title: "Residency training in Family Medicine for capacity building and quality improvement during the Rio de Janeiro Primary Health Care Reform"
+author: "Adelson Guaraci Jantsch"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a draft of the Ph.D. thesis"
+---
+
+# {-}
+
+ 
+![](C:\\Users\\Adelson\\Desktop\\thesis\\final\\thesis\\rocinha.png)
+
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
